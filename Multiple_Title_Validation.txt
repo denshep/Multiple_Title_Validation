@@ -1,0 +1,40 @@
+Test Case ID: 		TC-001.01
+URL: 		http://learn2test.net
+Title Expected: 		learn2test.net
+Test Case Result: 		PASSED
+Test Case ID: 		TC-001.02
+URL: 		http://yahoo.com
+Title Expected: 		Yahoo
+Test Case Result: 		PASSED
+Test Case ID: 		TC-001.03
+URL: 		https://www.google.com
+Title Expected: 		Google
+Test Case Result: 		PASSED
+Test Case ID: 		TC-001.04
+URL: 		http://techcrunch.com
+Title Expected: 		TechCrunch - The latest technology news and information on startups
+Test Case Result: 		PASSED
+Test Case ID: 		TC-001.05
+URL: 		http://www.bmwusa.com
+Title Expected: 		BMW of North America, LLC
+Test Case Result: 		PASSED
+Test Case ID: 		TC-001.06
+URL: 		http://www.thule.com/en-us/us
+Title Expected: 		Garbage
+Test Case Result: 		FAILED
+Test Case ID: 		TC-001.07
+URL: 		http://www.bimmerforums.com
+Title Expected: 		Honda
+Test Case Result: 		FAILED
+Test Case ID: 		TC-001.08
+URL: 		http://www.ticketmaster.com/section
+Title Expected: 		Ticket
+Test Case Result: 		FAILED
+Test Case ID: 		TC-001.09
+URL: 		http://www.dpreview.com
+Title Expected: 		Photos
+Test Case Result: 		FAILED
+Test Case ID: 		TC-001.010
+URL: 		http://surfline.com
+Title Expected: 		Surf
+Test Case Result: 		FAILED
